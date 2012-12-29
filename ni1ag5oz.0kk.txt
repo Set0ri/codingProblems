@@ -1,0 +1,25 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   Kth Order Statistic and Fibonacci/Fib1.cpp
+#	new file:   Kth Order Statistic and Fibonacci/Fib1.exe
+#	new file:   Kth Order Statistic and Fibonacci/Fibonacci Sequence and Kth Order Statistic.docx
+#	new file:   Kth Order Statistic and Fibonacci/Fibonacci Sequence and Kth Order Statistic.pdf
+#	new file:   Kth Order Statistic and Fibonacci/OrderStatistic.cpp
+#	new file:   Kth Order Statistic and Fibonacci/OrderStatistic.exe
+#	new file:   Kth Order Statistic and Fibonacci/RandomElements.cpp
+#	new file:   Kth Order Statistic and Fibonacci/RandomElements.exe
+#	new file:   Kth Order Statistic and Fibonacci/gmon.out
+#	new file:   Kth Order Statistic and Fibonacci/heap.cpp
+#	new file:   Kth Order Statistic and Fibonacci/heap.exe
+#	new file:   Kth Order Statistic and Fibonacci/input.txt
+#	new file:   Kth Order Statistic and Fibonacci/linear selection order algorithm.cpp
+#	new file:   Kth Order Statistic and Fibonacci/linear selection order algorithm.exe
+#	new file:   Kth Order Statistic and Fibonacci/lt.cpp
+#	new file:   Kth Order Statistic and Fibonacci/lt.exe
+#
+
